@@ -1,3 +1,6 @@
+/*
+ * Github 연결테스트
+ */
 package com.springbook.biz.board;
 
 import java.sql.SQLException;
