@@ -1,5 +1,5 @@
 /*
- * Github 연결테스트
+ * Github 연결테스트 2
  */
 package com.springbook.biz.board;
 
